@@ -7,6 +7,7 @@ I'm Junior QA Ingeneer
 ![Mobile QA](https://img.shields.io/badge/-Mobile_QA-090909?style=for-the-badge&logo=appveyor&logoColor=F8C52C)
 ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=restapi&logoColor=F8C52C)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=F88C00)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jiral&logoColor=F88C00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=E9D54D)
 
 ### Follow me
