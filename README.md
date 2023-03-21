@@ -1,6 +1,6 @@
 ![Header](https://github.com/Larisa91/larisa91/blob/main/Новый%20точечный%20рисунок.png)
 
-I'm Junior QA Ingeneer
+Я начинающий тестировщик
 
 ### Languages and Tools
 ![Desctop QA](https://img.shields.io/badge/-Desctop_QA-090909?style=for-the-badge&logo=appveyor&logoColor=F8C52C)
