@@ -15,6 +15,7 @@
 
 ### Portfolio
 
+- [Diplom](https://docs.google.com/spreadsheets/d/1hc7_U3Pcr2Y2zvkvAMaaKxoeZhCZM9ZJ/edit?usp=sharing&ouid=111586570516002608150&rtpof=true&sd=true)
 - [Diagramm](https://github.com/Larisa91/Portfolio/blob/main/Блок-схема%20расчета%20скорости%20%20вида%20транспорта.png)
 - [Mindmap](https://github.com/Larisa91/Portfolio/blob/main/mindmap%20Яндекс%20Маршруты.png)
 - [Checklists](https://github.com/Larisa91/Portfolio/blob/main/Чек-лист%20тестирования%20логики%20экрана%20Статус%20заказа.xlsx)
